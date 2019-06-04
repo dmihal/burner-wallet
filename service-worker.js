@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/burner-wallet/precache-manifest.f103be14ca4797604b6dd9b2db49e668.js"
+  "/burner-wallet/precache-manifest.a935afa12e4a432d32b5a2659b86acac.js"
 );
 
 self.addEventListener('message', (event) => {
