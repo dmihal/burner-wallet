@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0df3f92b4d2128c02e1e28b11f026d2a",
+    "revision": "7fbbaeed17f7446e9c25b0e663cd4e27",
     "url": "/burner-wallet/index.html"
   },
   {
-    "revision": "b460f311b1cbdc99d523",
+    "revision": "e695ead047b1b29f764f",
     "url": "/burner-wallet/static/css/main.ba7977dd.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/burner-wallet/static/js/2.29c02940.chunk.js"
   },
   {
-    "revision": "b460f311b1cbdc99d523",
-    "url": "/burner-wallet/static/js/main.9a9623d2.chunk.js"
+    "revision": "e695ead047b1b29f764f",
+    "url": "/burner-wallet/static/js/main.75f9a816.chunk.js"
   },
   {
     "revision": "7d89c980a6ae3f42a1a7",
